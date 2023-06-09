@@ -32,3 +32,22 @@
   --primary-blue-bg-color: #AFE0CE;
   --primary-blue-bg-text-color: #AFE0CE;
 }
+
+
+@media only screen and (max-width: 480px){
+  html{
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 481px) and (max-width: 1024px){
+  html{
+    font-size: 13px;
+  }
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1366px){
+  html{
+    font-size: 14px;
+  }
+}

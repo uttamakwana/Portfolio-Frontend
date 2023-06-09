@@ -11,4 +11,24 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
+
+  /* Black */
+  --primary-black-bg-color: #0D1321;
+  --primary-black-bg-text-color: #FFEDDF;
+
+  /* White */
+  --primary-white-bg-color: #FFEDDF;
+  --primary-white-bg-text-color: #0D1321;
+
+  /* Yellow */
+  --primary-yellow-bg-color: #C5D86D;
+  --primary-yellow-bg-text-color: #C5D86D;
+
+  /* Brown */
+  --primary-brown-bg-color: #86615C;
+  --primary-brown-bg-text-color: #86615C;
+
+  /* Blue */
+  --primary-blue-bg-color: #AFE0CE;
+  --primary-blue-bg-text-color: #AFE0CE;
 }

@@ -9,9 +9,12 @@ import {
   Footer,
 } from "./components";
 
+import { Navbar } from "./container";
+
 function App() {
   return (
     <div className="App">
+      <Navbar />
       <Header />
       <About />
       <Skills />
